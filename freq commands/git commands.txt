@@ -1,0 +1,7 @@
+When you solve a problem: git commit -m "feat(Arrays): solve Two Sum using HashMap"
+
+When you optimize an old solution: git commit -m "refactor(Arrays): improve Two Sum space complexity"
+
+When you update notes: git commit -m "docs: add Big O notes to README"
+
+Push your code to GitHub at the end of every study session: git push origin main.
